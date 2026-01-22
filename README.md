@@ -22,7 +22,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbypu&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" height="200" alt="top languages" />
   </a>
 
-  <br/><br/>
+  <br/>
 
   <a href="https://github.com/codedbypu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" /></a>
   <br>
