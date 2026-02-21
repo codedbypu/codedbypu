@@ -1,31 +1,25 @@
-<div align="center">
+# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Pu
 
-  # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> My name is Pu
+### About Me
+* 🎓 Computer Science student with a strong passion for exploring diverse technology fields.
+* 💡 Currently experimenting with **Artificial Intelligence**, **Data Science**, and **Software Engineering**.
+* 🌱 I enjoy building versatile solutions and continuously learning new tools and concepts.
+* 📫 How to reach me: **puwanat.phan@kmutt.ac.th**
 
-  ### 👨‍💻 I'm a Computer Science Student
-  
-  ---
-  
-  ### 🛠️ Languages & Tools
-  
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts&theme=dark" /></a>
-  <br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,mysql&theme=dark" /></a>
-  <br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,docker,vscode,arduino,figma,ps&theme=dark" /></a>
-  <br/>
+---
 
-  ### 📊 GitHub Stats
+### Tech Stack & Tools
 
-  <a href="https://github.com/codedbypu" >
-    <img src="https://github-readme-stats.vercel.app/api?username=codedbypu&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="150" alt="stats graph"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=codedbypu&theme=dark&background=1c1917&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&hide_border=true" height="150" alt="streak graph"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbypu&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" height="200" alt="top languages" />
-  </a>
+**Languages:**<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts&theme=dark" /></a>
+<br><br>
+**Frontend & Backend:**<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,mysql&theme=dark" /></a>
+<br><br>
+**Tools & Environment:**<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,docker,vscode,arduino,figma,ps&theme=dark" /></a>
 
-  <br/>
+---
 
-  <a href="https://github.com/codedbypu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" /></a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=codedbypu&style=flat-square&color=0891b2&label=Profile+Views" alt=""/>
-
-</div>
+### Connect with me:
+<a href="mailto:puwanat.phan@kmutt.ac.th"><img src="https://img.shields.io/badge/Email-puwanat.phan%40kmutt.ac.th-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
