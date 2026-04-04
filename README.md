@@ -23,4 +23,4 @@
 
 ### Connect with me:
 <a href="mailto:puwanat.phan@kmutt.ac.th"><img src="https://img.shields.io/badge/Email-puwanat.phan%40kmutt.ac.th-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://medium.com/@codedbypu"><img src="https://img.shields.io/badge/Medium-@codedbypu-0891b2?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<!-- <a href="https://medium.com/@codedbypu"><img src="https://img.shields.io/badge/Medium-@codedbypu-0891b2?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a> -->
